@@ -1,0 +1,23 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+
+# Generated datasets
+data/raw/
+data/processed/
+
+# Generated models and reports
+models/*.joblib
+reports/*.json
+reports/*.txt
+reports/*.csv
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

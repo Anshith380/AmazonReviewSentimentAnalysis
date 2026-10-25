@@ -1,0 +1,16 @@
+
+pandas
+numpy
+scikit-learn
+nltk
+vaderSentiment
+matplotlib
+seaborn
+plotly
+streamlit
+wordcloud
+openpyxl
+datasets
+joblib
+pytest
+requests
